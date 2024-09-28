@@ -46,7 +46,7 @@ This project is licensed under the GPL License. See the [LICENSE](LICENSE) file 
 
 ### Academic Usage Requirements
 
-If this project is being used for academic purposes, such as university coursework, proper acknowledgment is required in all related materials. This includes, but is not limited to, coursework submissions, reports, and the README.md file of your GitHub repository. The following statement (translated into your preferred language) is highly recommended:
+If this project is being used for academic purposes, such as university coursework, proper acknowledgment is required in all related materials. This includes, but is not limited to, coursework submissions, reports, and the `README.md` file of your GitHub repository. The following statement (translated into your preferred language) is highly recommended:
 
 “This project is powered by Visual-ECharts. GitHub Repository: https://github.com/tianze-hou/Visual-ECharts”
 
