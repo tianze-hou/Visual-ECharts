@@ -46,8 +46,8 @@ This project is licensed under the GPL License. See the [LICENSE](LICENSE) file 
 
 ### Compliance Acknowledgement
 
-If you are utilizing this project in an academic context (eg. a university coursework), you are required to acknowledge it in your coursework, reports, and the `README.md` file of your GitHub repository. Please use the following statement in your own language:
+If this project is being used in an academic context, such as university coursework, proper acknowledgment is required in all related materials, including but not limited to coursework, reports, and the README.md file of your GitHub repository. The following statement in your own language is highly recommended:
 
-“This project is powered by Visual-ECharts. GitHub Repository: [insert URL here]”
+“This project is powered by Visual-ECharts. GitHub Repository: https://github.com/tianze-hou/Visual-ECharts”
 
 Additionally, as this project is licensed under the GPL, you are obligated to make your source code publicly accessible. Thank you for your compliance.
