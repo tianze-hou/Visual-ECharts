@@ -27,16 +27,16 @@ Visual-ECharts simplifies the basic creation of interactive charts by providing 
 
 ## To-Do List
 
-- [ ] Create project structure.
-- [ ] Draft initial HTML/CSS layout.
-- [ ] Implement basic GUI components.
-- [ ] Add manual data input and file upload features.
-- [ ] Develop functionalities
-	- [ ] Histogram
-	- [ ] Pie Chart
-	- [ ] Line Chart
-	- [ ] Scatter Plot
-- [ ] Create interactive preview functionality.
+- [x] Create project structure.
+- [x] Draft initial HTML/CSS layout.
+- [x] Implement basic GUI components.
+- [x] Add manual data input and file upload features.
+- [x] Develop functionalities
+	- [x] Histogram
+	- [x] Pie Chart
+	- [x] Line Chart
+	- [x] Scatter Plot
+- [x] Create interactive preview functionality.
 - [ ] Create configuration
 - [ ] Write user documentation.
 
